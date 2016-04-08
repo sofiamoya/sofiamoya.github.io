@@ -5,10 +5,11 @@ body, html {
 img.moyinguis {
   width: 90%;
   padding-top: 150px;
+    max-width: 900px;
 }
 
 p {
-  font-family: 'muli', sans-serif;
+  font-family: 'Karla', sans-serif;
   font-weight: 400;
   color: #264c55;
   font-size: 15px;
